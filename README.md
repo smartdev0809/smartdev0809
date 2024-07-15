@@ -4,34 +4,34 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<img alt="full stack developer" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/Screenshot_2.png" width="100%" />
+<img alt="full stack developer" src="https://github.com/smartdev0809/smartdev0809/blob/main/Screenshot_2.png" width="100%" />
 
 <div align="center">
  
- <a href="https://github.com/devlancer-lucas?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devlancer-lucas"/>
+ <a href="https://github.com/smartdev0809?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/smartdev0809"/>
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://gist.github.com/devlancer-lucas"><img src="https://profile-counter.glitch.me/{devlancer-lucas}/count.svg" alt="Visitor's Count" /></a>
+ <a href="https://gist.github.com/smartdev0809"><img src="https://profile-counter.glitch.me/{smartdev0809}/count.svg" alt="Visitor's Count" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/devlancer-lucas?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/devlancer-lucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a href="https://github.com/smartdev0809?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/smartdev0809?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </>
- <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
+ <img src="https://komarev.com/ghpvc/?username=smartdev0809&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
  <img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Visitor's Count" height="0px" />
 <!-- <div align="center">
- <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
+ <img src="https://komarev.com/ghpvc/?username=smartdev0809&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
  <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime">&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/devlancer-lucas?tab=followers"><img src="https://img.shields.io/github/followers/devlancer-lucas?style=social"></a>
+ <a href="https://github.com/smartdev0809?tab=followers"><img src="https://img.shields.io/github/followers/smartdev0809?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/smartdev0809"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
 ### 👨🏽‍💻 &nbsp;About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/smartdev0809/smartdev0809/blob/main/coding.gif?raw=true">
 
 <p>
 Rich experience designing, developing, and implementing web applications.
@@ -47,29 +47,29 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 </div>
 
 <div align="center">
-<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/smartdev0809?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=smartdev0809&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
 
 <!-- activity graph heroku-app start -->
 <div align="center">
-    <a href="https://github.com/devlancer-lucas">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlancer-lucas&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    <a href="https://github.com/smartdev0809">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartdev0809&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 <!-- activity graph heroku-app end -->
 
 <div align="center">
- <a href="https://github.com/devlancer-lucas?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devlancer-lucas&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/devlancer-lucas?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=devlancer-lucas&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <a href="https://github.com/smartdev0809?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=smartdev0809&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+ <a href="https://github.com/smartdev0809?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=smartdev0809&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/smartdev0809/smartdev0809/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/smartdev0809/smartdev0809/blob/main/code.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/smartdev0809/smartdev0809/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
@@ -123,7 +123,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     
 <!-- <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
- <img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+ <img src="https://github-profile-trophy.vercel.app/?username=smartdev0809&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 </div> -->
 
     
